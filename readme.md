@@ -1,5 +1,7 @@
 # PHP Models
 
+** NOTE: No longer supported. This feature has been moved into the Mira Framework.
+
 PHP Models is a project to create an Active Record type ORM system.
 
 ## Installation
